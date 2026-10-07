@@ -1,7 +1,7 @@
 ## Hi, I'm Odongo Lovemore 👋
 
 Junior Generative AI Software Developer and full-stack JavaScript engineer.
-I build web apps and LLM-powered tools, and I'm open to junior roles in Italy.
+I build web apps and LLM-powered tools, and I'm open to junior roles.
 
 ## What I work with
 - **AI:** Gemini API, tool/function calling, agent loops, prompt design
